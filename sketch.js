@@ -1,4 +1,6 @@
-// Global configuration
+//Refactored
+
+// Global variables
 let cellSize = 30;
 let marginWid = 2;
 // Array of predefined colors
