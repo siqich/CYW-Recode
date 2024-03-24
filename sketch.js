@@ -3,12 +3,12 @@
 // Global variables
 let cellSize = 30;
 let marginWid = 2;
-// Array of predefined colors
+// Store colors in array
 let colors = ["#f04a4a", "#00ffae", "#513bbf", "#ffd675", "#c87ee6", "#211e29"];
 
 function setup() {
   // Create a canvas to fill the window
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(windowWidth, windowHeight+50);
 }
 
 function draw() {
